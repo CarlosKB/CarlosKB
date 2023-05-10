@@ -1,4 +1,4 @@
-### Olá, Eu sou a Laiza Cristina!
+### Olá, Eu sou o Carlos Kauã!
 
 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
 <div alinhar = "centro">
