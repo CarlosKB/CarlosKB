@@ -31,7 +31,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    
+  
+### Projetos Pessoais:
+  2022 - 02 | 1° Projeto API - Fatec - Cliente interno Fatec.
+    • https://github.com/4DeskGroup/API-2022.1
+  2022 - 07 | 2° Projeto API - Fatec - Cliente: TrackCash.
+    • https://github.com/4DeskGroup/API-2022.2
+  2023 - 02 | 3° Projeto API - Fatec - Cliente: Visiona.
+    • https://github.com/4DeskGroup/API-2023.1
+   
 ##
   ### Redes Sociais:
   <a href="https://www.instagram.com/_carloskb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
