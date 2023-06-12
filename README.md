@@ -33,12 +33,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   
 ### Projetos Pessoais:
-  2022 - 02 | 1° Projeto API - Fatec - Cliente interno Fatec.
-    • https://github.com/4DeskGroup/API-2022.1
-  2022 - 07 | 2° Projeto API - Fatec - Cliente: TrackCash.
-    • https://github.com/4DeskGroup/API-2022.2
-  2023 - 02 | 3° Projeto API - Fatec - Cliente: Visiona.
-    • https://github.com/4DeskGroup/API-2023.1
+  2022 - 02 | 1° Projeto API - Fatec - Cliente interno Fatec.</br>
+    • https://github.com/4DeskGroup/API-2022.1</br>
+  2022 - 07 | 2° Projeto API - Fatec - Cliente: TrackCash.</br>
+    • https://github.com/4DeskGroup/API-2022.2</br>
+  2023 - 02 | 3° Projeto API - Fatec - Cliente: Visiona.</br>
+    • https://github.com/4DeskGroup/API-2023.1</br>
    
 ##
   ### Redes Sociais:
