@@ -34,11 +34,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
   
 ### Projetos Pessoais:
   2022 - 02 | 1° Projeto API - Fatec - Cliente interno Fatec.</br>
-      • https://github.com/4DeskGroup/API-2022.1</br>
+    • https://github.com/4DeskGroup/API-2022.1</br>
   2022 - 07 | 2° Projeto API - Fatec - Cliente: TrackCash.</br>
-      • https://github.com/4DeskGroup/API-2022.2</br>
+    • https://github.com/4DeskGroup/API-2022.2</br>
   2023 - 02 | 3° Projeto API - Fatec - Cliente: Visiona.</br>
-      • https://github.com/4DeskGroup/API-2023.1</br>
+    • https://github.com/4DeskGroup/API-2023.1</br>
    
 ##
   ### Redes Sociais:
