@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
 ![Postgree](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   
-### Projetos Pessoais:
+###Projetos Pessoais:
   2022 - 02 | 1° Projeto API - Fatec - Cliente interno Fatec.</br>
     • https://github.com/4DeskGroup/API-2022.1</br>
   2022 - 07 | 2° Projeto API - Fatec - Cliente: TrackCash.</br>
