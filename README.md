@@ -41,6 +41,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordm
     • https://github.com/4DeskGroup/API-2023.1</br>
   2023 - 07 | 4° Projeto API - Fatec - Cliente: Greeneat.</br>
     • https://github.com/4DeskGroup/API-2023.2</br>
+  2024 - 02 | 5° Projeto API - Fatec - Cliente: Oracle.</br>
+    • https://github.com/4DeskGroup/API-2024.1</br>
    
 ##
   ### Redes Sociais:
