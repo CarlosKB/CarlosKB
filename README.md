@@ -1,6 +1,7 @@
 ### Olá, Eu sou o Carlos Kauã!
 
 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
+<p/>
 👨‍💼 Desenvolvedor FullStack na Pro4Tech
 <div alinhar = "centro">
  <a href="https://github.com/CarlosKB">
