@@ -1,6 +1,7 @@
 ### Olá, Eu sou o Carlos Kauã!
 
 📚 Cursando Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos.
+👨‍💼 Desenvolvedor FullStack na Pro4Tech
 <div alinhar = "centro">
  <a href="https://github.com/CarlosKB">
  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=CarlosKB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
